@@ -20,5 +20,6 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         
     }
-//Хочу передать этому е*аному Обэмэ на**й.    
+//Хочу передать этому е*аному Обэмэ на**й.
+//Xthyj;jgsq, ,,sk ,s ns xtkjdtrjv ,kznm ndj. ljxm t,en ultybn yf[eq f ltnb ub,.yen yf erhfbyt ,kznm    
 }
