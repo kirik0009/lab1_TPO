@@ -20,5 +20,5 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         
     }
-    
+//Хочу передать этому е*аному Обэмэ на**й.    
 }
