@@ -7,12 +7,12 @@ package javaapplication1;
 
 /**
  *
- * @author I am
+ v4
  */
 public class JavaApplication1 {
 
     /**
-     * @param args the command line arguments
+    v4
      */
     public static void main(String[] args) {
         
