@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author 21598
+ * @author my mother
  */
 public class NewClass {
     
